@@ -23,7 +23,6 @@ The service response must be exact JSON with allowed categories, priorities, a 0
 Requires Python 3.11 or later.
 
 ```powershell
-cd "C:\Users\Kamal\OneDrive\Documents\ChatGPT\Automation task"
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
